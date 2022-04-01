@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ct7ct7ct7.androidvimeoplayer:library:1.0.6@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/31ffe77b4fe06ce926cae8f9c43e2618/transformed/jetified-library-1.0.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/31ffe77b4fe06ce926cae8f9c43e2618/transformed/jetified-library-1.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/31ffe77b4fe06ce926cae8f9c43e2618/transformed/jetified-library-1.0.6/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/65d5d35c31db9e2c028238a68f0ff084/transformed/jetified-library-1.0.6/res" />
+      <root url="jar://D:/.gradle/caches/transforms-3/65d5d35c31db9e2c028238a68f0ff084/transformed/jetified-library-1.0.6/jars/classes.jar!/" />
+      <root url="file://D:/.gradle/caches/transforms-3/65d5d35c31db9e2c028238a68f0ff084/transformed/jetified-library-1.0.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d0d73ffa53ed564dcde78a7cc7edc93/transformed/jetified-library-1.0.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d0d73ffa53ed564dcde78a7cc7edc93/transformed/jetified-library-1.0.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6d0d73ffa53ed564dcde78a7cc7edc93/transformed/jetified-library-1.0.6/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/91813daab878af5b14af9149f4a289cc/transformed/jetified-library-1.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/91813daab878af5b14af9149f4a289cc/transformed/jetified-library-1.0.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/91813daab878af5b14af9149f4a289cc/transformed/jetified-library-1.0.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.ct7ct7ct7.androidvimeoplayer/library/1.0.6/51ef03d833e19bc92a292cce79b29d24fa739cf5/library-1.0.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.ct7ct7ct7.androidvimeoplayer/library/1.0.6/51ef03d833e19bc92a292cce79b29d24fa739cf5/library-1.0.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ct7ct7ct7.androidvimeoplayer/library/1.0.6/51ef03d833e19bc92a292cce79b29d24fa739cf5/library-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.ct7ct7ct7.androidvimeoplayer/library/1.0.6/16df7b0c14163152e25c1ed9bfc2702482106956/library-1.0.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.ct7ct7ct7.androidvimeoplayer/library/1.0.6/16df7b0c14163152e25c1ed9bfc2702482106956/library-1.0.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ct7ct7ct7.androidvimeoplayer/library/1.0.6/16df7b0c14163152e25c1ed9bfc2702482106956/library-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

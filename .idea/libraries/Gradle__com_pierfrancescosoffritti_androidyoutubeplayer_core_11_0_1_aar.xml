@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pierfrancescosoffritti.androidyoutubeplayer:core:11.0.1@aar">
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/5e7afeceafef4149eaff69084b539eff/transformed/jetified-core-11.0.1/res" />
+      <root url="jar://D:/.gradle/caches/transforms-3/5e7afeceafef4149eaff69084b539eff/transformed/jetified-core-11.0.1/jars/classes.jar!/" />
+      <root url="file://D:/.gradle/caches/transforms-3/5e7afeceafef4149eaff69084b539eff/transformed/jetified-core-11.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/5e7afeceafef4149eaff69084b539eff/transformed/jetified-core-11.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/5e7afeceafef4149eaff69084b539eff/transformed/jetified-core-11.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/5e7afeceafef4149eaff69084b539eff/transformed/jetified-core-11.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5e7afeceafef4149eaff69084b539eff/transformed/jetified-core-11.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e7afeceafef4149eaff69084b539eff/transformed/jetified-core-11.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e7afeceafef4149eaff69084b539eff/transformed/jetified-core-11.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.pierfrancescosoffritti.androidyoutubeplayer/core/11.0.1/6dde3f62ac5351e1c1c46c09b06c50854085e3be/core-11.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.pierfrancescosoffritti.androidyoutubeplayer/core/11.0.1/6dde3f62ac5351e1c1c46c09b06c50854085e3be/core-11.0.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pierfrancescosoffritti.androidyoutubeplayer/core/11.0.1/6dde3f62ac5351e1c1c46c09b06c50854085e3be/core-11.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.pierfrancescosoffritti.androidyoutubeplayer/core/11.0.1/a335335491de514ea0247bfa1d0565af2566c582/core-11.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.pierfrancescosoffritti.androidyoutubeplayer/core/11.0.1/a335335491de514ea0247bfa1d0565af2566c582/core-11.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pierfrancescosoffritti.androidyoutubeplayer/core/11.0.1/a335335491de514ea0247bfa1d0565af2566c582/core-11.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

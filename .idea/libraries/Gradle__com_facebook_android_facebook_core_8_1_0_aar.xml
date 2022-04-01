@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-core:8.1.0@aar">
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/a27524cd8e4465b14ec3a8f8f12ab840/transformed/jetified-facebook-core-8.1.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/3e24d411b51ebe014ac8b22e2cd6a803/transformed/jetified-facebook-core-8.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3e24d411b51ebe014ac8b22e2cd6a803/transformed/jetified-facebook-core-8.1.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/5be6873330bf9334e500ce79817db288/transformed/jetified-facebook-core-8.1.0/AndroidManifest.xml" />
+      <root url="file://D:/.gradle/caches/transforms-3/5be6873330bf9334e500ce79817db288/transformed/jetified-facebook-core-8.1.0/res" />
+      <root url="jar://D:/.gradle/caches/transforms-3/5be6873330bf9334e500ce79817db288/transformed/jetified-facebook-core-8.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/5be6873330bf9334e500ce79817db288/transformed/jetified-facebook-core-8.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/5be6873330bf9334e500ce79817db288/transformed/jetified-facebook-core-8.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/5be6873330bf9334e500ce79817db288/transformed/jetified-facebook-core-8.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5be6873330bf9334e500ce79817db288/transformed/jetified-facebook-core-8.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5be6873330bf9334e500ce79817db288/transformed/jetified-facebook-core-8.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5be6873330bf9334e500ce79817db288/transformed/jetified-facebook-core-8.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/8.1.0/7604c25cac6d4db809a2381b4530610d35fe2d57/facebook-core-8.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/8.1.0/7604c25cac6d4db809a2381b4530610d35fe2d57/facebook-core-8.1.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/8.1.0/7604c25cac6d4db809a2381b4530610d35fe2d57/facebook-core-8.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/8.1.0/a32540da0a7c8eb9f7763b7489b6ab67a61be938/facebook-core-8.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/8.1.0/a32540da0a7c8eb9f7763b7489b6ab67a61be938/facebook-core-8.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/8.1.0/a32540da0a7c8eb9f7763b7489b6ab67a61be938/facebook-core-8.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

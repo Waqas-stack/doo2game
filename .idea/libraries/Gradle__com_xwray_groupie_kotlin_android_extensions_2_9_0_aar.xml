@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.xwray:groupie-kotlin-android-extensions:2.9.0@aar">
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/e422191acd6835fd80200dd6be655b6d/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/0f52c11712bd21bddf2e6e10aecf3966/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0f52c11712bd21bddf2e6e10aecf3966/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/res" />
+      <root url="jar://D:/.gradle/caches/transforms-3/dc65594c0bd7b02c6f15cb857c5a0279/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/jars/classes.jar!/" />
+      <root url="file://D:/.gradle/caches/transforms-3/dc65594c0bd7b02c6f15cb857c5a0279/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/AndroidManifest.xml" />
+      <root url="file://D:/.gradle/caches/transforms-3/dc65594c0bd7b02c6f15cb857c5a0279/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/dc65594c0bd7b02c6f15cb857c5a0279/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/dc65594c0bd7b02c6f15cb857c5a0279/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/dc65594c0bd7b02c6f15cb857c5a0279/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dc65594c0bd7b02c6f15cb857c5a0279/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dc65594c0bd7b02c6f15cb857c5a0279/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dc65594c0bd7b02c6f15cb857c5a0279/transformed/jetified-groupie-kotlin-android-extensions-2.9.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.xwray/groupie-kotlin-android-extensions/2.9.0/c074d29556617ece5bc1a19497deecccb21576d8/groupie-kotlin-android-extensions-2.9.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.xwray/groupie-kotlin-android-extensions/2.9.0/c074d29556617ece5bc1a19497deecccb21576d8/groupie-kotlin-android-extensions-2.9.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xwray/groupie-kotlin-android-extensions/2.9.0/c074d29556617ece5bc1a19497deecccb21576d8/groupie-kotlin-android-extensions-2.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.xwray/groupie-kotlin-android-extensions/2.9.0/dd3d0ad9c0b5973562b440fd758c97d2c56f2bf7/groupie-kotlin-android-extensions-2.9.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.xwray/groupie-kotlin-android-extensions/2.9.0/dd3d0ad9c0b5973562b440fd758c97d2c56f2bf7/groupie-kotlin-android-extensions-2.9.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xwray/groupie-kotlin-android-extensions/2.9.0/dd3d0ad9c0b5973562b440fd758c97d2c56f2bf7/groupie-kotlin-android-extensions-2.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

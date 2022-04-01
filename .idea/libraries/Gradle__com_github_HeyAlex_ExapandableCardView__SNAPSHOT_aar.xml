@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.HeyAlex:ExapandableCardView:-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://D:/.gradle/caches/transforms-3/a7e234dd461d225045e6cf6ab07fb773/transformed/jetified-ExapandableCardView--SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://D:/.gradle/caches/transforms-3/a7e234dd461d225045e6cf6ab07fb773/transformed/jetified-ExapandableCardView--SNAPSHOT/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/a7e234dd461d225045e6cf6ab07fb773/transformed/jetified-ExapandableCardView--SNAPSHOT/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/a7e234dd461d225045e6cf6ab07fb773/transformed/jetified-ExapandableCardView--SNAPSHOT/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/a7e234dd461d225045e6cf6ab07fb773/transformed/jetified-ExapandableCardView--SNAPSHOT/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/a7e234dd461d225045e6cf6ab07fb773/transformed/jetified-ExapandableCardView--SNAPSHOT/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a7e234dd461d225045e6cf6ab07fb773/transformed/jetified-ExapandableCardView--SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a7e234dd461d225045e6cf6ab07fb773/transformed/jetified-ExapandableCardView--SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a7e234dd461d225045e6cf6ab07fb773/transformed/jetified-ExapandableCardView--SNAPSHOT/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.github.HeyAlex/ExapandableCardView/-SNAPSHOT/4c771b89c25d8efc14ca0bf6bb07da107fdcd7ef/ExapandableCardView--SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

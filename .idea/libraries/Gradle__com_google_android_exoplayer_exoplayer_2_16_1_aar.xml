@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer:2.16.1@aar">
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/52d6b6c629c5c04f4274d907bb882dac/transformed/jetified-exoplayer-2.16.1/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/5f73231a4d92d89306b779f3fb4961aa/transformed/jetified-exoplayer-2.16.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f73231a4d92d89306b779f3fb4961aa/transformed/jetified-exoplayer-2.16.1/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/d284e6ab2b0db22200897b473fbe433e/transformed/jetified-exoplayer-2.16.1/res" />
+      <root url="jar://D:/.gradle/caches/transforms-3/d284e6ab2b0db22200897b473fbe433e/transformed/jetified-exoplayer-2.16.1/jars/classes.jar!/" />
+      <root url="file://D:/.gradle/caches/transforms-3/d284e6ab2b0db22200897b473fbe433e/transformed/jetified-exoplayer-2.16.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/d284e6ab2b0db22200897b473fbe433e/transformed/jetified-exoplayer-2.16.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/d284e6ab2b0db22200897b473fbe433e/transformed/jetified-exoplayer-2.16.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/d284e6ab2b0db22200897b473fbe433e/transformed/jetified-exoplayer-2.16.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d284e6ab2b0db22200897b473fbe433e/transformed/jetified-exoplayer-2.16.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d284e6ab2b0db22200897b473fbe433e/transformed/jetified-exoplayer-2.16.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d284e6ab2b0db22200897b473fbe433e/transformed/jetified-exoplayer-2.16.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer/2.16.1/316d73b2492d8fbaa47cb8d09dae503f6e3be682/exoplayer-2.16.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer/2.16.1/316d73b2492d8fbaa47cb8d09dae503f6e3be682/exoplayer-2.16.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer/2.16.1/316d73b2492d8fbaa47cb8d09dae503f6e3be682/exoplayer-2.16.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

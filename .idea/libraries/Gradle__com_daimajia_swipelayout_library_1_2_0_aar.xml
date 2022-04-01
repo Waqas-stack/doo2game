@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.daimajia.swipelayout:library:1.2.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/c787634418f822c6bc6bb7d3a9ee800b/transformed/jetified-library-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/c787634418f822c6bc6bb7d3a9ee800b/transformed/jetified-library-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/c787634418f822c6bc6bb7d3a9ee800b/transformed/jetified-library-1.2.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/93440e16a1341b57b4fd57947df7e8ee/transformed/jetified-library-1.2.0/res" />
+      <root url="jar://D:/.gradle/caches/transforms-3/93440e16a1341b57b4fd57947df7e8ee/transformed/jetified-library-1.2.0/jars/classes.jar!/" />
+      <root url="file://D:/.gradle/caches/transforms-3/93440e16a1341b57b4fd57947df7e8ee/transformed/jetified-library-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ae2ec8551af1cc3fa03341d3180c6cb3/transformed/jetified-library-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ae2ec8551af1cc3fa03341d3180c6cb3/transformed/jetified-library-1.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ae2ec8551af1cc3fa03341d3180c6cb3/transformed/jetified-library-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/93b9e9b6350d0fbf41d9591724043b48/transformed/jetified-library-1.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/93b9e9b6350d0fbf41d9591724043b48/transformed/jetified-library-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/93b9e9b6350d0fbf41d9591724043b48/transformed/jetified-library-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.daimajia.swipelayout/library/1.2.0/cd6c57674a319382d83e0b67dd9af85eba58474e/library-1.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.daimajia.swipelayout/library/1.2.0/cd6c57674a319382d83e0b67dd9af85eba58474e/library-1.2.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daimajia.swipelayout/library/1.2.0/cd6c57674a319382d83e0b67dd9af85eba58474e/library-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.daimajia.swipelayout/library/1.2.0/b63382dd92f5ccc49758caa83c4462f1da4b57c8/library-1.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.daimajia.swipelayout/library/1.2.0/b63382dd92f5ccc49758caa83c4462f1da4b57c8/library-1.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daimajia.swipelayout/library/1.2.0/b63382dd92f5ccc49758caa83c4462f1da4b57c8/library-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

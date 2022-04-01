@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mindorks.android:placeholderview:1.0.0@aar">
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/8d24642523e6a84dcfcea2ee62481e1b/transformed/jetified-placeholderview-1.0.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/20d548f5b0b8e21b50f7db807e425dd5/transformed/jetified-placeholderview-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/757fb36e73c278e8512bb3bf9f20d9bc/transformed/jetified-placeholderview-1.0.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/b3c8af9a9dd2b634245a9a409a9049fa/transformed/jetified-placeholderview-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/bf1a3f9ee278e5447b9e38fd590eaa8b/transformed/jetified-placeholderview-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/bf1a3f9ee278e5447b9e38fd590eaa8b/transformed/jetified-placeholderview-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/bf1a3f9ee278e5447b9e38fd590eaa8b/transformed/jetified-placeholderview-1.0.0/jars/classes.jar!/" />
+      <root url="jar://D:/.gradle/caches/transforms-3/a111a38271c44ffc6739fd0d78c06dca/transformed/jetified-placeholderview-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/.gradle/caches/transforms-3/a111a38271c44ffc6739fd0d78c06dca/transformed/jetified-placeholderview-1.0.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/a111a38271c44ffc6739fd0d78c06dca/transformed/jetified-placeholderview-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62b2661586ef8ebb8d018d03933c1dbf/transformed/jetified-placeholderview-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62b2661586ef8ebb8d018d03933c1dbf/transformed/jetified-placeholderview-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/62b2661586ef8ebb8d018d03933c1dbf/transformed/jetified-placeholderview-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/beeb22c786d3c3cb9253e122278ec9b8/transformed/jetified-placeholderview-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/beeb22c786d3c3cb9253e122278ec9b8/transformed/jetified-placeholderview-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/beeb22c786d3c3cb9253e122278ec9b8/transformed/jetified-placeholderview-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.mindorks.android/placeholderview/1.0.0/a1062545e4f09f0ea18fc8a6d300f1647a5d4301/placeholderview-1.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.mindorks.android/placeholderview/1.0.0/a1062545e4f09f0ea18fc8a6d300f1647a5d4301/placeholderview-1.0.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mindorks.android/placeholderview/1.0.0/a1062545e4f09f0ea18fc8a6d300f1647a5d4301/placeholderview-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.mindorks.android/placeholderview/1.0.0/814b0f7310b6fe7591e34069ed921beca52e7e23/placeholderview-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.mindorks.android/placeholderview/1.0.0/814b0f7310b6fe7591e34069ed921beca52e7e23/placeholderview-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mindorks.android/placeholderview/1.0.0/814b0f7310b6fe7591e34069ed921beca52e7e23/placeholderview-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.xwray:groupie:2.9.0@aar">
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/772614c003625251e7bd8834096a010d/transformed/jetified-groupie-2.9.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/7a00f889506759468993ebbb07fe51c9/transformed/jetified-groupie-2.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a00f889506759468993ebbb07fe51c9/transformed/jetified-groupie-2.9.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/6df25b16b352821d69c9af2d0b53e52b/transformed/jetified-groupie-2.9.0/AndroidManifest.xml" />
+      <root url="file://D:/.gradle/caches/transforms-3/6df25b16b352821d69c9af2d0b53e52b/transformed/jetified-groupie-2.9.0/res" />
+      <root url="jar://D:/.gradle/caches/transforms-3/6df25b16b352821d69c9af2d0b53e52b/transformed/jetified-groupie-2.9.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/6df25b16b352821d69c9af2d0b53e52b/transformed/jetified-groupie-2.9.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/6df25b16b352821d69c9af2d0b53e52b/transformed/jetified-groupie-2.9.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/6df25b16b352821d69c9af2d0b53e52b/transformed/jetified-groupie-2.9.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6df25b16b352821d69c9af2d0b53e52b/transformed/jetified-groupie-2.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6df25b16b352821d69c9af2d0b53e52b/transformed/jetified-groupie-2.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6df25b16b352821d69c9af2d0b53e52b/transformed/jetified-groupie-2.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.xwray/groupie/2.9.0/5a01eac847fd5f5052612cf19be2c2f6c1c5dc7a/groupie-2.9.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.xwray/groupie/2.9.0/5a01eac847fd5f5052612cf19be2c2f6c1c5dc7a/groupie-2.9.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xwray/groupie/2.9.0/5a01eac847fd5f5052612cf19be2c2f6c1c5dc7a/groupie-2.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.xwray/groupie/2.9.0/720ec594e019492390886c58e00d7a46bfee0fc2/groupie-2.9.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.xwray/groupie/2.9.0/720ec594e019492390886c58e00d7a46bfee0fc2/groupie-2.9.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xwray/groupie/2.9.0/720ec594e019492390886c58e00d7a46bfee0fc2/groupie-2.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

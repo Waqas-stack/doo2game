@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-auth-base:18.0.1@aar">
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/7af8b0045bbb840d07c37f3866815fca/transformed/jetified-play-services-auth-base-18.0.1/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/9446d2cbef54fbaa5066b6194ef804bc/transformed/jetified-play-services-auth-base-18.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9446d2cbef54fbaa5066b6194ef804bc/transformed/jetified-play-services-auth-base-18.0.1/res" />
+      <root url="jar://D:/.gradle/caches/transforms-3/d7d27aa24629f45bff95145f202f85b6/transformed/jetified-play-services-auth-base-18.0.1/jars/classes.jar!/" />
+      <root url="file://D:/.gradle/caches/transforms-3/d7d27aa24629f45bff95145f202f85b6/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml" />
+      <root url="file://D:/.gradle/caches/transforms-3/d7d27aa24629f45bff95145f202f85b6/transformed/jetified-play-services-auth-base-18.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/d7d27aa24629f45bff95145f202f85b6/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/d7d27aa24629f45bff95145f202f85b6/transformed/jetified-play-services-auth-base-18.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/d7d27aa24629f45bff95145f202f85b6/transformed/jetified-play-services-auth-base-18.0.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d7d27aa24629f45bff95145f202f85b6/transformed/jetified-play-services-auth-base-18.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d7d27aa24629f45bff95145f202f85b6/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d7d27aa24629f45bff95145f202f85b6/transformed/jetified-play-services-auth-base-18.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-auth-base/18.0.1/3807e6c63954c0b45972ba441e699dca1d03f2a8/play-services-auth-base-18.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-auth-base/18.0.1/3807e6c63954c0b45972ba441e699dca1d03f2a8/play-services-auth-base-18.0.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-auth-base/18.0.1/3807e6c63954c0b45972ba441e699dca1d03f2a8/play-services-auth-base-18.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

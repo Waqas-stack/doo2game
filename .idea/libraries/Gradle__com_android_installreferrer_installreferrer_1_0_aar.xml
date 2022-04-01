@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.installreferrer:installreferrer:1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/9416bbf1a1c5c7d86e40718284363c0e/transformed/jetified-installreferrer-1.0/annotations.zip!/" />
+      <root url="jar://D:/.gradle/caches/transforms-3/77ec26e88f66b329d1b2dd29186acc3f/transformed/jetified-installreferrer-1.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/12dfe2b3785e4e4b1221ccb8b485b34d/transformed/jetified-installreferrer-1.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/716e0f8320f9b775b226bca9ed532d32/transformed/jetified-installreferrer-1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/75772f5006edfc8d7fd99de308662ffc/transformed/jetified-installreferrer-1.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/8f14118829ed04ab2efc6ec328f0b39e/transformed/jetified-installreferrer-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d82e8125083521d6cca4f2d1121ee5a1/transformed/jetified-installreferrer-1.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/2a49a7262ca6bf84bd903ba8d70eaa23/transformed/jetified-installreferrer-1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/9416bbf1a1c5c7d86e40718284363c0e/transformed/jetified-installreferrer-1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/9416bbf1a1c5c7d86e40718284363c0e/transformed/jetified-installreferrer-1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/9416bbf1a1c5c7d86e40718284363c0e/transformed/jetified-installreferrer-1.0/AndroidManifest.xml" />
+      <root url="file://D:/.gradle/caches/transforms-3/77ec26e88f66b329d1b2dd29186acc3f/transformed/jetified-installreferrer-1.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/77ec26e88f66b329d1b2dd29186acc3f/transformed/jetified-installreferrer-1.0/AndroidManifest.xml" />
+      <root url="jar://D:/.gradle/caches/transforms-3/77ec26e88f66b329d1b2dd29186acc3f/transformed/jetified-installreferrer-1.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/12dfe2b3785e4e4b1221ccb8b485b34d/transformed/jetified-installreferrer-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/12dfe2b3785e4e4b1221ccb8b485b34d/transformed/jetified-installreferrer-1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/12dfe2b3785e4e4b1221ccb8b485b34d/transformed/jetified-installreferrer-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/716e0f8320f9b775b226bca9ed532d32/transformed/jetified-installreferrer-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/716e0f8320f9b775b226bca9ed532d32/transformed/jetified-installreferrer-1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/716e0f8320f9b775b226bca9ed532d32/transformed/jetified-installreferrer-1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.android.installreferrer/installreferrer/1.0/a572d7b98f4738eb9677ff7bce82608f28c5b0e/installreferrer-1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.android.installreferrer/installreferrer/1.0/a572d7b98f4738eb9677ff7bce82608f28c5b0e/installreferrer-1.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.installreferrer/installreferrer/1.0/a572d7b98f4738eb9677ff7bce82608f28c5b0e/installreferrer-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.android.installreferrer/installreferrer/1.0/3241c0c1c69068520c6ac47283680a9f9f46f532/installreferrer-1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.android.installreferrer/installreferrer/1.0/3241c0c1c69068520c6ac47283680a9f9f46f532/installreferrer-1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.installreferrer/installreferrer/1.0/3241c0c1c69068520c6ac47283680a9f9f46f532/installreferrer-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

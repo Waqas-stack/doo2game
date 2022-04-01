@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-dash:2.16.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/2e1ca1b6c4129e2f0e4e669612626553/transformed/jetified-exoplayer-dash-2.16.1/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/5a27c66eb00429c06b779c171209968b/transformed/jetified-exoplayer-dash-2.16.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a27c66eb00429c06b779c171209968b/transformed/jetified-exoplayer-dash-2.16.1/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/AndroidManifest.xml" />
+      <root url="file://D:/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/res" />
+      <root url="jar://D:/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/64eb0b745b637594eff5346cade0dc11/transformed/jetified-exoplayer-dash-2.16.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-dash/2.16.1/310f7d7bf6e9f70bd0127283b98cdec92930cb93/exoplayer-dash-2.16.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-dash/2.16.1/310f7d7bf6e9f70bd0127283b98cdec92930cb93/exoplayer-dash-2.16.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-dash/2.16.1/310f7d7bf6e9f70bd0127283b98cdec92930cb93/exoplayer-dash-2.16.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

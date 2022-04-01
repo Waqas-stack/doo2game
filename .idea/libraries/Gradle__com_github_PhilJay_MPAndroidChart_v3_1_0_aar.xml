@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.PhilJay:MPAndroidChart:v3.1.0@aar">
+    <CLASSES>
+      <root url="file://D:/.gradle/caches/transforms-3/5ef1c21dc1c9591e3f96115f65785531/transformed/jetified-MPAndroidChart-v3.1.0/res" />
+      <root url="file://D:/.gradle/caches/transforms-3/d9b1f072f1053fc00c6f8d08c65ee5c9/transformed/jetified-MPAndroidChart-v3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d9b1f072f1053fc00c6f8d08c65ee5c9/transformed/jetified-MPAndroidChart-v3.1.0/res" />
+      <root url="jar://D:/.gradle/caches/transforms-3/ac7a642daf807a4020729008987a8335/transformed/jetified-MPAndroidChart-v3.1.0/jars/classes.jar!/" />
+      <root url="file://D:/.gradle/caches/transforms-3/ac7a642daf807a4020729008987a8335/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml" />
+      <root url="file://D:/.gradle/caches/transforms-3/ac7a642daf807a4020729008987a8335/transformed/jetified-MPAndroidChart-v3.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/ac7a642daf807a4020729008987a8335/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/ac7a642daf807a4020729008987a8335/transformed/jetified-MPAndroidChart-v3.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/transforms-3/ac7a642daf807a4020729008987a8335/transformed/jetified-MPAndroidChart-v3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ac7a642daf807a4020729008987a8335/transformed/jetified-MPAndroidChart-v3.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ac7a642daf807a4020729008987a8335/transformed/jetified-MPAndroidChart-v3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ac7a642daf807a4020729008987a8335/transformed/jetified-MPAndroidChart-v3.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.1.0/4c8733ccf3f0a9d50357193b03fe2853fc73ff31/MPAndroidChart-v3.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.1.0/4c8733ccf3f0a9d50357193b03fe2853fc73ff31/MPAndroidChart-v3.1.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.1.0/2cb6d9556dd436cc6af2434d861903323fab2e3c/MPAndroidChart-v3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.1.0/a93f278fa885a682f8d89d82ffd259d5a9635f7b/MPAndroidChart-v3.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows Software1/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.1.0/a93f278fa885a682f8d89d82ffd259d5a9635f7b/MPAndroidChart-v3.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.1.0/d397442db532e8e2471cd0e063e64894c70794aa/MPAndroidChart-v3.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.1.0/a93f278fa885a682f8d89d82ffd259d5a9635f7b/MPAndroidChart-v3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
